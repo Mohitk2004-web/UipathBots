@@ -1,0 +1,6 @@
+{
+  "Name": "AI-Powered Invoice Processing Bot",
+  "ProjectType": "Process",
+  "Description": "RPA + OCR + AI/ML + Document Understanding",
+  "MainFile": "Main.xaml"
+}
